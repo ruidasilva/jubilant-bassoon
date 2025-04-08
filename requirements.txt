@@ -1,0 +1,13 @@
+librosa>=0.10.1
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+resemblyzer>=0.1.1
+soundfile>=0.12.1
+pydub>=0.25.1
+scikit-learn>=1.2.0
+pandas>=2.0.0
+seaborn>=0.12.0
+transformers>=4.36.0
+torch>=2.0.0
+python-dotenv>=1.0.0 
